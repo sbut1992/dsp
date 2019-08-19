@@ -51,8 +51,6 @@ Python 3 because the instructions above say to do so and the HackerRank Python p
 
 ### Q2. Which Python Version Installed   
 
-In the Terminal:
-
 Python 3.6.8 :: Anaconda, Inc.
 
 
