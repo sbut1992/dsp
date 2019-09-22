@@ -30,4 +30,4 @@ thinkplot.Show(xlabel='children',ylabel='probability')
 
 
 biased_pmf.Mean()
-pmf.Mean(
+pmf.Mean()
